@@ -3,6 +3,7 @@
 
 ## Causal Learning
 - <a name="todo"></a> A Survey of Learning Causality with Data: Problems and Methods (**arXiv 2020**) [[paper](https://arxiv.org/pdf/1809.09337.pdf)]
+- Synthetic Control Method [[paper]](https://economics.mit.edu/files/11859)[[Slides]](https://docs.google.com/presentation/d/1IUF775QBtPjwrNm-7Q-sXs9Yxj9GbvLNzERkJT5aKB8/edit?usp=sharing)
 
 ## Socially Responsible Algorithms
 
