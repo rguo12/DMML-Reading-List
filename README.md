@@ -20,9 +20,11 @@
 ## Deep Logic
 - RNNLogic: Learning Logic Rules for Reasoning on Knowledge Graphs (**ICLR 2021**)[[Paper](https://arxiv.org/pdf/2010.04029)]
 
+## Privacy-preserving Techniques:
+- InstaHide: Instance-hiding Schemes for Private Distributed Learning (**ICML 2020**) [[paper](http://proceedings.mlr.press/v119/huang20i/huang20i.pdf)]
+
 
 ## Other topics
-
 - Postdocs as Mentors (Colleen Flaherty) [Slides](files\Postdocs_as_Mentors.pdf) [link](https://www.insidehighered.com/news/2019/10/11/study-says-when-it-comes-everyday-mentoring-and-training-sciences-postdocs-are-new)
 
 
