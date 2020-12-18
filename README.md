@@ -2,8 +2,10 @@
 
 
 ## Causal Learning
-- <a name="todo"></a> A Survey of Learning Causality with Data: Problems and Methods (**arXiv 2020**) [[paper](https://arxiv.org/pdf/1809.09337.pdf)]
+- <a name="todo"></a> A Survey of Learning Causality with Data: Problems and Methods (**ACM CUSR**) [[paper](https://arxiv.org/pdf/1809.09337.pdf)]
 - Synthetic Control Method [[Paper]](https://economics.mit.edu/files/11859) [[Slides]](https://docs.google.com/presentation/d/1IUF775QBtPjwrNm-7Q-sXs9Yxj9GbvLNzERkJT5aKB8/edit?usp=sharing)
+- Invariant risk minimization [[Paper]](https://arxiv.org/pdf/1907.02893.pdf)
+- Underspecification Presents Challenges for Credibility in Modern Machine Learning [[Paper]](https://arxiv.org/abs/2011.03395)
 
 ## Socially Responsible Algorithms
 
